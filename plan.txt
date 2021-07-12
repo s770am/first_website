@@ -1,0 +1,45 @@
+assignment
+
+website 
+ -landing page = root
+   -- describition and picturof myself and coding skills
+ - skill link -- open skills page
+   -- favorite book and colors
+   -- link about me 
+  -- img of self and description with link to github and linkden
+ - url for home that goes to landing page
+
+
+urls 
+ - /
+ - skills
+ - about me
+ - home
+ - first name
+
+pages 
+
+- all
+nav bar
+footer
+
+- skills
+- img of me
+  - about me paragragh
+    -- favorite book and colors
+    -- contact info
+
+- home
+  - img of me
+  - about me
+    --  coding skills
+    -- intro
+
+- about me
+  - img
+  - about me paragragh
+   -- coding journey
+   -- linkden link
+   -- git hub link
+   
+ 
