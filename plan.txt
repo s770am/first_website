@@ -27,7 +27,7 @@ footer
 - img of me
   - about me paragragh
     -- favorite book and colors
-    -- contact info
+    -- about my skills
 
 - home
   - img of me
